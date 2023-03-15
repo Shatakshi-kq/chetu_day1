@@ -177,7 +177,7 @@ class MainActivity(val it: Intent) : AppCompatActivity() {
                 }
             }
             R.id.exit -> {
-                finish()
+
             }
         }
         return super.onOptionsItemSelected(item)
